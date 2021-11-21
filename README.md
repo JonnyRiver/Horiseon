@@ -10,6 +10,7 @@ A website that allows you to boost your business online.
 -CSS
 
 ## Website
+https://jonnyriver.github.io/Horiseon/
 
 ## Contribution
 
