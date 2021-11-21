@@ -12,6 +12,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Begin header style chart */
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -55,6 +57,8 @@ p {
   font-size: 16px;
 }
 
+/* begin hero section */
+
 .hero {
   height: 800px;
   width: 100%;
@@ -81,6 +85,8 @@ p {
   margin-left: 20px;
   position: absolute;
 }
+
+/* End hero section */
 
 .benefits {
   margin-right: 35px;
@@ -142,7 +148,7 @@ p {
 }
 
 .search-engine-optimization {
-  margin-top: 825px;
+  margin-top: 0px;
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
